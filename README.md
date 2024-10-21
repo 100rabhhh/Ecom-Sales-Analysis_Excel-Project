@@ -55,6 +55,10 @@
 <p>
   The <strong>E-commerce Sales Dashboard</strong> allows stakeholders to monitor critical sales and profitability metrics. By analyzing sales trends, product category performance, customer demographics, and geographical distribution, this dashboard provides valuable insights to make data-driven decisions for business growth. With proper analysis of target vs actual sales, businesses can identify areas that need more attention and refine their strategies to increase profitability.
 </p>
+<h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
 
 <p align="center">
   <strong>Thanks for exploring this project! Feel free to contribute and suggest improvements. 💼📈</strong>
